@@ -51,13 +51,12 @@ To learn more about how Copository works or to request access for your own repos
 
 ### 🧠 Repository Structure
 copository-showcase/
-│
 ├── README.md
-├── docs/
-│   ├── coala/
-│   ├── express/
-│   ├── flask/
-│   └── libp2p/
+└── docs/
+    ├── coala/
+    ├── express/
+    ├── flask/
+    └── libp2p/
 
 ---
 
